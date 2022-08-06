@@ -195,6 +195,13 @@ reinforced_string:
     custom_model_data: 300
   lore:
     - A 10-ft spool of reinforced string.
+  recipes:
+    1:
+      type: shaped
+      input:
+        - string|string|string
+        - string|zc_dragon_scale|string
+        - string|string|string
 
 mythril_longbow:
   type: item
