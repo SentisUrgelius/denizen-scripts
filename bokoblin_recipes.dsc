@@ -53,8 +53,6 @@ moblin_pickaxe:
   data:
     discover: true
   display name: <&color[#349EA0]>Molblin Pickaxe
-  enchantments:
-    - LOOT_BONUS_BLOCKS: 4
   mechanisms:
     custom_model_data: 600
   enchantments:
