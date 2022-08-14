@@ -150,3 +150,14 @@ onox_shard:
     custom_model_data: 1400
   lore:
     - A crystalized shard of onox.
+
+banana:
+  type: item
+  debug: false
+  material: apple
+  display name: Banana
+  mechanisms:
+    custom_model_data: 100
+  lore:
+    - This fruit grows mainly in tropical
+    - forests of the Faron region.
